@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TomasoI
 - 👀 I’m interested in: Money
-- 🌱 I’m currently learning: HTML, CSS, JS & C#
+- 🌱 I’m currently learning: HTML, CSS, JS, NodeJS & C#
 - 📫 How to reach me: You can't
