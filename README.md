@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Tomaso</h1>
 <h3 align="center">I am a fourth year high school student who is studying computer science. Below you are able to find some coding languages that I'm pointed on 🔮</h3>
 
-<img src="<iframe src="https://giphy.com/embed/443CVsriaiIepZfJFU"/>
+<p align="left"> <img src="https://giphy.com/embed/443CVsriaiIepZfJFU" /> </p>
 
 <h3 align="left">Languages:</h3>
     <p align="left">
