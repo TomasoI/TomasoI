@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Tomaso</h1>
 <h3 align="center">I am a fourth year high school student who is studying computer science. Below you are able to find some coding languages that I'm pointed on 🔮</h3>
 
-![giphy](https://user-images.githubusercontent.com/21361308/170894683-92333e67-5449-4d6b-9cc3-735bf09fe7ad.gif)
 
 <h3 align="left">Languages:</h3>
     <p align="left">
@@ -11,3 +10,8 @@
         <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="py" width="32.5" height="32.5"/> </a>
         <a href="http://csharp.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="31" height="31"/></a>    
     </p>
+    
+    
+ <p align="right">
+    <a href="https://github.com/TomasoI"> <img src="https://user-images.githubusercontent.com/21361308/170894914-ba105798-91c3-4737-a998-e0aa9f08cad3.gif" width="120" height="120"/> </a>
+</p>
