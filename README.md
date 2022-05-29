@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomaso</h1>
+<h1 align="center">Hi 👋, I'm Tomaso</h1> <br>
 <h3 align="center">I am a fourth year high school student who is studying computer science. Below you are able to find some coding languages that I'm pointed on 🔮</h3>
 
 <br>
