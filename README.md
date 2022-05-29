@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋🏼, I'm Tomaso</h1>
 <h3 align="center">I am a fourth year high school student who is studying computer science. Below you are able to find some coding languages that I'm pointed on 🔮</h3>
 
+![giphy](https://user-images.githubusercontent.com/21361308/170894683-92333e67-5449-4d6b-9cc3-735bf09fe7ad.gif)
+
 <h3 align="left">Languages:</h3>
     <p align="left">
         <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a>
