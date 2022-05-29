@@ -12,6 +12,6 @@
     </p>
     
     
- <p align="right">
-    <a href="https://github.com/TomasoI"> <img src="https://user-images.githubusercontent.com/21361308/170894914-ba105798-91c3-4737-a998-e0aa9f08cad3.gif" width="120" height="120"/> </a>
+<p align="right">
+    <a href="https://github.com/TomasoI"> <img src="https://user-images.githubusercontent.com/21361308/170895082-cc3f2f9f-1793-4b10-a233-73eaa7a9cd11.gif" width="178" height="51"/> </a>
 </p>
