@@ -13,6 +13,6 @@
     
     
 <p align="right">
-    <a href="https://github.com/TomasoI"> <img src="https://user-images.githubusercontent.com/21361308/170952085-9093db1c-43a2-4a84-9646-c560827fa58e.gif" width="178" height="51"/> </a>
+    <a href="https://github.com/TomasoI"> <img src="https://user-images.githubusercontent.com/21361308/170952085-9093db1c-43a2-4a84-9646-c560827fa58e.gif" width="160" height="60"/> </a>
 </p>
 
